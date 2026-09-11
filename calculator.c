@@ -11,5 +11,6 @@ int main()
     printf(" addtion=%d\n",a+b);
     printf("subtraction=%d\n",a-b);
     printf("multiplication=%d\n",a*b);
+    printf("division=%d\n",a/b);
     return 0;
 }
